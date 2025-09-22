@@ -84,13 +84,13 @@ A professional, production-ready Telegram bot built with Python and Pyrogram tha
 | Variable             | Description                            | Required | Default Value  |
 | -------------------- | -------------------------------------- | -------- | -------------- |
 | `API_ID`             | Telegram API ID from my.telegram.org   | ✅       | 21936466       |
-| `API_HASH`           | Telegram API Hash from my.telegram.org | ✅       | 5d89c2323f...  |
-| `BOT_TOKEN`          | Bot token from @BotFather              | ✅       | 7511924283...  |
+| `API_HASH`           | Telegram API Hash from my.telegram.org | ✅       | 5d89c2123f...  |
+| `BOT_TOKEN`          | Bot token from @BotFather              | ✅       | 7552224283...  |
 | `MONGO_URI`          | MongoDB connection string              | ✅       | mongodb://...  |
 | `DB_NAME`            | MongoDB database name                  | ✅       | AutoFilterBot  |
-| `OWNER_ID`           | Your Telegram user ID                  | ✅       | 1633472140     |
-| `REQUIRED_CHANNEL`   | Channel ID users must join             | ✅       | -1001557378145 |
-| `SOURCE_CHANNEL_IDS` | Source channel IDs for auto-indexing   | ✅       | -1001860710176 |
+| `OWNER_ID`           | Your Telegram user ID                  | ✅       | 1634752140     |
+| `REQUIRED_CHANNEL`   | Channel ID users must join             | ✅       | -1001557378254 |
+| `SOURCE_CHANNEL_IDS` | Source channel IDs for auto-indexing   | ✅       | -1045260710176 |
 | `BRANDING_TAG`       | Branding tag for uploaded files        | ✅       | Uploaded By... |
 
 ## 🎮 Commands
@@ -209,3 +209,4 @@ This bot is designed for production use with:
 ---
 
 **Built with ❤️ using Python, Pyrogram, and MongoDB**
+
